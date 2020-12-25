@@ -27,7 +27,5 @@ This script doesn't work if honey pots are enabled, because they use ports requi
 #include <std_disclaimer.h>
 
 /*
-*
 * You run this script at your own responsibility. It is not officialy supported
-*
 */
