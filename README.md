@@ -23,3 +23,11 @@ Now only thing for you to do is to connect to UDMPRO samba server.
 Currently there is no authentication in order to access this drive but I might do it later. Feel free to edit this script if you want to add it yourself.
 
 This script doesn't work if honey pots are enabled, because they use ports required for this to work Feel free to issue any pull requests.
+
+#include <std_disclaimer.h>
+
+/*
+*
+* You run this script at your own responsibility. It is not officialy supported
+*
+*/
