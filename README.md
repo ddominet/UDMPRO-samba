@@ -2,6 +2,9 @@
 
 **UDM PRO SAMBA SERVER using drive bay**
 
+**I NO LONGER OWN UDM PRO I recomend to check https://github.com/thealpa/UDMPRO-samba**
+
+
 **foreshadowing**
 
 Hi, I recently acquired UDM PRO and wondered why can't I use this beautiful drive bay for something useful. Storing videos from proprietary cameras was not in my mind. So I begun to investigate and found out a great repo udm-utilities https://github.com/boostchicken/udm-utilities. I suggest you check it out because It will be useful in order to make this script work after reboot.
